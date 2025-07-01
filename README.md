@@ -22,12 +22,12 @@ Provide comprehensive insights into sales performance, profit distribution, quan
 1. Sales and Profit Performance:
   + Monitor total sales (Amount) and profit over time.
   + Analyse monthly profit trends to identify peak and low-performing months.
--	Product Analysis:
+2. Product Analysis:
   -	Identify high-performing and underperforming product categories and sub-categories in terms of sales quantity and profit.
   -	Understand which categories contribute the most to overall sales.
--	Regional and State-Level Insights:
+3. Regional and State-Level Insights:
   -	Assess the quantity of sales distributed across different states, allowing for targeted marketing and inventory management.
--	Customer Payment Preferences:
+4.	Customer Payment Preferences:
   -	Analyse the distribution of payment modes to optimize transaction methods and improve customer experience.
 
 
