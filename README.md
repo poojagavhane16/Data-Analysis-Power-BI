@@ -19,7 +19,7 @@ Provide comprehensive insights into sales performance, profit distribution, quan
 ![dashboard](https://github.com/user-attachments/assets/43b78a7e-9c34-4a15-ad5d-d012405840c7)
 
 ## Project Insights
--	Sales and Profit Performance:
+1. Sales and Profit Performance:
   + Monitor total sales (Amount) and profit over time.
   + Analyse monthly profit trends to identify peak and low-performing months.
 -	Product Analysis:
