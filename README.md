@@ -20,8 +20,8 @@ Provide comprehensive insights into sales performance, profit distribution, quan
 
 ## Project Insights
 -	Sales and Profit Performance:
-  -	Monitor total sales (Amount) and profit over time.
-  -	analyse monthly profit trends to identify peak and low-performing months.
+    Monitor total sales (Amount) and profit over time.
+  	Analyse monthly profit trends to identify peak and low-performing months.
 -	Product Analysis:
   -	Identify high-performing and underperforming product categories and sub-categories in terms of sales quantity and profit.
   -	Understand which categories contribute the most to overall sales.
